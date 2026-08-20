@@ -249,7 +249,9 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 
-<p align="center">
-  <img src="https://github.com/makif0456-cloud/makif0456-cloud/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
