@@ -222,23 +222,25 @@
 <div>
   <p align="center">
 
-```
-<a href="https://github.com/makif0456-cloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=portfolio&theme=tokyonight" alt="Repository"/>
+<div align="center">
+
+<a href="https://github.com/makif0456-cloud/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=portfolio&theme=tokyonight" alt="portfolio"/>
 </a>
 
-<a href="https://github.com/makif0456-cloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=makif0456-cloud&theme=tokyonight" alt="Repository"/>
+<a href="https://github.com/makif0456-cloud/makif0456-cloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=makif0456-cloud&theme=tokyonight" alt="Profile README"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=localrepo&theme=tokyonight" alt="Repository"/>
+<a href="https://github.com/makif0456-cloud/localrepo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=localrepo&theme=tokyonight" alt="localrepo"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=My-demo&theme=tokyonight" alt="Repository"/>
+<a href="https://github.com/makif0456-cloud/My-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=My-demo&theme=tokyonight" alt="My-demo"/>
 </a>
-```
+
+</div>
 
   </p>
 </div>
