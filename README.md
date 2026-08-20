@@ -223,20 +223,20 @@
   <p align="center">
 
 ```
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_1&theme=tokyonight" alt="Repository"/>
+<a href="https://github.com/makif0456-cloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=portfolio&theme=tokyonight" alt="Repository"/>
+</a>
+
+<a href="https://github.com/makif0456-cloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=makif0456-cloud&theme=tokyonight" alt="Repository"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_2&theme=tokyonight" alt="Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=localrepo&theme=tokyonight" alt="Repository"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_3&theme=tokyonight" alt="Repository"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPOSITORY_4&theme=tokyonight" alt="Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=makif0456-cloud&repo=My-demo&theme=tokyonight" alt="Repository"/>
 </a>
 ```
 
