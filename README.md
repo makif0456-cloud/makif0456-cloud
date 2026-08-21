@@ -164,6 +164,18 @@
   </a>
 </p>
 
+## 🌐 3D CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub>⚙️ Auto-generated daily via GitHub Actions — isometric 3D render of real commit activity</sub>
+
+</div>
+
+<br/>
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
