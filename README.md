@@ -7,8 +7,9 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=makif0456-cloud&label=Profile%20views&color=0047AB&style=plastic" alt="Mohd Akif" height=25px, width=160px/>
+  <img src="https://komarev.com/ghpvc/?username=makif0456-cloud&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" height="25" width="160"/>
 </p>
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
