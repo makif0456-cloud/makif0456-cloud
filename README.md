@@ -24,7 +24,7 @@
 * :computer: I practice `Data Structures & Algorithms` and competitive programming.
 * :student: I’m currently learning `Computer Science`, `Software Engineering`, and `Full Stack Development`.
 * :nerd_face: Always `learning new things` and improving my problem-solving skills.
-* :boom: Completed `100+ problems on LeetCode`.
+* :boom: Completed `200+ problems on LeetCode`.
 * :mag: Currently exploring `Backend Development`, `React.js`, `Node.js`, `MongoDB`, `SQL`, and `System Design`.
 
 <br>
